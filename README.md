@@ -1,2 +1,42 @@
-# 4ee8c0b0-membership-community-invoice
-Stop chasing payments and start building community revenue with automated, professional invoices built for membership sites.  This plugin solves the messy billing chaos in membership communities by combining automated invoicing with Stripe payments. It's the best solution for owners who want professional, customizable invoices and reliable recurrin
+# Membership & Community Invoice and Payment WordPress Plugin
+
+> Plugin for Membership Sites
+
+Stop chasing payments and start building community revenue with automated, professional invoices built for membership sites.
+
+This plugin solves the messy billing chaos in membership communities by combining automated invoicing with Stripe payments.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/cNieVdeTt8IsaNOfQ8cZs0q)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
